@@ -27,9 +27,9 @@ KPIs que resuman las tendencias más relevantes.
 - README.md: Este archivo de introducción al repositorio.<br>
 Otros archivos generados para la presentación de KPIs y conclusiones.<br>
 <h3>EDA</h3>
-- Se verifican valores nulos
-- Se verifican valores duplicados
-- Se Obtienen estadisticas descriptivas describe()
-- Se realizan diferentes tipos de gráficas con el propósito de analizar el comportamiento de los datos de manera más clara y eficaz. 
+- Se verifican valores nulos<br>
+- Se verifican valores duplicados<br>
+- Se Obtienen estadisticas descriptivas describe()<br>
+- Se realizan diferentes tipos de gráficas con el propósito de analizar el comportamiento de los datos de manera más clara y eficaz. <br>
 
 
