@@ -3,9 +3,12 @@
 
 <h3 style="color:#00BFFF; text-align:right;">Introducción</h3>
 
-Este repositorio contiene un análisis exploratorio de datos (EDA) y una representación visual de indicadores clave de desempeño (KPIs) relacionados con el acceso a internet en Argentina.<br> El proyecto se basa en un conjunto de datos que abarca información sobre:<br>
+Este repositorio contiene un análisis exploratorio de datos (EDA) y una representación visual de indicadores clave de desempeño (KPIs) relacionados con el acceso a internet en Argentina.<br> El proyecto se basa en un conjunto de datos que abarca información sobre el servicio de internet en Argentina:<br>
 <ol>
-<li>Accesos a internet: Número de accesos por cada 100 hogares, desglosado por provincia y año.</li>
+<li>Cobertura en el país a través de los años</li>
+<li>Evolución de las Tecnologías</li>
+<li>Ingresos anuales y trimestrales</li>
+<li>Número de accesos por cada 100 hogares, desglosado por provincia y año.</li>
 <li>Ingresos por servicios de internet: Evolución de los ingresos generados a nivel nacional por trimestre y año.</li>
 <li>Crecimiento temporal: Análisis de tendencias y patrones en el tiempo.</li>
 </ol>
@@ -26,13 +29,7 @@ KPIs que resuman las tendencias más relevantes.
 - EDA.ipynb: Notebook con el análisis exploratorio de datos y las visualizaciones.<br>
 - README.md: Este archivo de introducción al repositorio.<br>
 Otros archivos generados para la presentación de KPIs y conclusiones.<br>
-<h3>EDA</h3>
-- Carga de datos<br>
-- Verificación de datos<br>
-- Verificación de valores nulos<br>
-- Verificación de duplicados<br>
-- Obtención de estadisticas descriptivas<br>
-- Se realizan diferentes tipos de gráficas con el propósito de analizar el comportamiento de los datos de manera más clara y eficaz. <br>
+
 <h3>Dashboards Power BI</h3>
 Contiene:
 - Análisis de Accesos Totales por Años<br>
