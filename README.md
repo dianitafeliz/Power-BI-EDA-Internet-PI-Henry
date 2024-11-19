@@ -14,7 +14,7 @@ Este repositorio contiene un análisis exploratorio de datos (EDA) y una represe
 </ol>
 <h3>Objetivos del proyecto</h3>
 <ol>
-<li>Importar y entender los datos</li>
+<li>Importar y analizar los datos.</li>
 <li>Identificar patrones de crecimiento en el acceso a internet.</li>
 <li>Analizar las diferencias entre provincias y años.</li>
  <li> Examinar la concentración de accesos por tecnología a nivel provincial y local.</li>
