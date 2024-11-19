@@ -14,9 +14,13 @@ Este repositorio contiene un análisis exploratorio de datos (EDA) y una represe
 </ol>
 <h3>Objetivos del proyecto</h3>
 <ol>
-<li>Explorar y entender los datos:</li>
+<li>Importar y entender los datos</li>
 <li>Identificar patrones de crecimiento en el acceso a internet.</li>
 <li>Analizar las diferencias entre provincias y años.</li>
+ <li> Examinar la concentración de accesos por tecnología a nivel provincial y local.</li>
+ <li> Evaluar el uso de tecnologías tradicionales, frente a tecnologías emergentes (Fibra Óptica) en diferentes regiones.</li>
+ <li> Observar patrones generales en el uso de tecnologías a nivel nacional.</li>
+ <li> Proponer estrategias para reducir la brecha digital en función de los resultados obtenidos.</li>
 </ol>
 <h3>Generar visualizaciones:</h3>
 Gráficos de barras apiladas, líneas y puntos para representar los datos.<br>
