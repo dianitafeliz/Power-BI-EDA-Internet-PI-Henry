@@ -1,3 +1,4 @@
+<style> .li { list-style-type: circle;  } </style>
 # Exploratory Data Analysis (EDA) y Representación de Datos (Power BI) - Acceso a Internet en Argentina
 
 <h3 style="color:#00BFFF; text-align:right;">Introducción</h3>
