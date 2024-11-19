@@ -43,7 +43,13 @@ El objetivo es llegar a más hogares en el próximo trimestre.<br>
 Se propone un incremento del 2%. <br>
 2. Se toma como métrica los ingresos por cada año, para identidicar el porcentaje de incremento por cada año.
 El objetivo es proyectar el porcentaje de ingresos para el siguiente año, para así, planificar los recursos e inversiones futuras.
-Se propone un incremento del 110%
+Se propone un incremento del 110%, teniendo que el incremento para el periodo anterior se promedia en 102%.
+
+<h3>Conclusiones</h3>
+- Se observa una tendencia general al aumento del acceso a internet en Argentina a lo largo de los años, lo que indica una mejora en la conectividad a nivel nacional. Sin embargo, existen diferencias significativas entre las provincias, lo que sugiere la presencia de una brecha digital.<br>
+- Se evidencia una notable disparidad en el acceso a internet entre diferentes provincias. Algunas provincias muestran un acceso significativamente mayor, lo que puede estar relacionado con factores como el desarrollo económico, la urbanización y la disponibilidad de recursos tecnológicos. Por ejemplo, Buenos Aires se destaca como la provincia con el mayor acceso, mientras que otras provincias tienen cifras mucho más bajas.<br>
+- Al agrupar los accesos por tipo de tecnología, se puede observar que ciertas tecnologías, como el cablemódem y la fibra óptica, tienen una mayor cantidad de accesos en comparación con otras, como el WIMAX o el satelital. Esto indica que la adopción de tecnologías más avanzadas está contribuyendo al aumento del acceso a internet.
+
 
 
 
