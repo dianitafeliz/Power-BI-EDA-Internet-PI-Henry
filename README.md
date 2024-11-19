@@ -1,4 +1,6 @@
 # Exploratory Data Analysis (EDA) y Representación de Datos (Power BI) - Acceso a Internet en Argentina
+![Descripción de la Imagen](https://github.com/dianitafeliz/Power-BI-EDA-Internet-PI-Henry/blob/main/datasets/internet.jpeg)
+
 
 <h3 style="color:#00BFFF; text-align:right;">Introducción</h3>
 
