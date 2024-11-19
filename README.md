@@ -27,9 +27,23 @@ KPIs que resuman las tendencias más relevantes.
 - README.md: Este archivo de introducción al repositorio.<br>
 Otros archivos generados para la presentación de KPIs y conclusiones.<br>
 <h3>EDA</h3>
-- Se verifican valores nulos<br>
-- Se verifican valores duplicados<br>
-- Se Obtienen estadisticas descriptivas describe()<br>
+- Carga de datos<br>
+- Verificación de datos<br>
+- Verificación de valores nulos<br>
+- Verificación de duplicados<br>
+- Obtención de estadisticas descriptivas<br>
 - Se realizan diferentes tipos de gráficas con el propósito de analizar el comportamiento de los datos de manera más clara y eficaz. <br>
+<h3>Dashboards Power BI</h3>
+Contiene:
+- Análisis de Accesos Totales por Años<br>
+- Análisis de Accesos por Tecnologías<br>
+- Promedio de Accesos por cada 100 habitantes por provincia<br>
+- Análisis de ingresos Anual y Trimestral<br>
+
+<h5>KPIs</h5>
+1. Se toma como métrica la cantidad de accesos por cada 100 hogares por provincia.<br>
+El objetivo es llegar a más hogares en el próximo trimestre.<br>
+Se propone un incremento del 2%. <br>
+
 
 
