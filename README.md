@@ -5,9 +5,9 @@
 
 Este repositorio contiene un análisis exploratorio de datos (EDA) y una representación visual de indicadores clave de desempeño (KPIs) relacionados con el acceso a internet en Argentina.<br> El proyecto se basa en un conjunto de datos que abarca información sobre el servicio de internet en Argentina:<br>
 <ol>
-<li>Cobertura en el país a través de los años</li>
-<li>Evolución de las Tecnologías</li>
-<li>Ingresos anuales y trimestrales</li>
+<li>Cobertura en el país a través de los años.</li>
+<li>Evolución de las Tecnologías.</li>
+<li>Ingresos anuales y trimestrales.</li>
 <li>Número de accesos por cada 100 hogares, desglosado por provincia y año.</li>
 <li>Ingresos por servicios de internet: Evolución de los ingresos generados a nivel nacional por trimestre y año.</li>
 <li>Crecimiento temporal: Análisis de tendencias y patrones en el tiempo.</li>
@@ -41,6 +41,9 @@ Contiene:
 1. Se toma como métrica la cantidad de accesos por cada 100 hogares por provincia.<br>
 El objetivo es llegar a más hogares en el próximo trimestre.<br>
 Se propone un incremento del 2%. <br>
+2. Se toma como métrica los ingresos por cada año, para identidicar el porcentaje de incremento por cada año.
+El objetivo es proyectar el porcentaje de ingresos para el siguiente año, para así, planificar los recursos e inversiones futuras.
+Se propone un incremento del 110%
 
 
 
