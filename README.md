@@ -1,4 +1,8 @@
 # Exploratory Data Analysis (EDA) y Representación de Datos (Power BI) - Acceso a Internet en Argentina
+<div style="background-color: lightblue; padding: 10px;">
+  <h2>Encabezado con Fondo Azul Claro</h2>
+  <p>Este es un párrafo dentro de un div con fondo de color azul claro.</p>
+</div>
 
 <h3 style="color:#00BFFF; text-align:right;">Introducción</h3>
 
