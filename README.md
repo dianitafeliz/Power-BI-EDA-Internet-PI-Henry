@@ -1,7 +1,8 @@
 # Exploratory Data Analysis (EDA) y Representación de Datos (Power BI) - Acceso a Internet en Argentina
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <img src="https://github.com/dianitafeliz/Power-BI-EDA-Internet-PI-Henry/blob/main/datasets/internet.jpeg" alt="Texto Alternativo" width="400" height="400">
 </div>
+
 <h3 style="color:#00BFFF; text-align:right;">Introducción</h3>
 
 Este repositorio contiene un análisis exploratorio de datos (EDA) y una representación visual de indicadores clave de desempeño (KPIs) relacionados con el acceso a internet en Argentina.<br> El proyecto se basa en un conjunto de datos que abarca información sobre:<br>
