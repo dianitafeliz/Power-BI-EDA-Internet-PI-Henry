@@ -2,7 +2,7 @@
 
 <h3 style="color:#00BFFF; text-align:right;">Introducción</h3>
 
-Este repositorio contiene un análisis exploratorio de datos (EDA) y una representación visual de indicadores clave de desempeño (KPIs) relacionados con el acceso a internet en Argentina. El proyecto se basa en un conjunto de datos que abarca información sobre:<br>
+Este repositorio contiene un análisis exploratorio de datos (EDA) y una representación visual de indicadores clave de desempeño (KPIs) relacionados con el acceso a internet en Argentina.<br> El proyecto se basa en un conjunto de datos que abarca información sobre:<br>
 <ol>
 <li>Accesos a internet: Número de accesos por cada 100 hogares, desglosado por provincia y año.</li>
 <li>Ingresos por servicios de internet: Evolución de los ingresos generados a nivel nacional por trimestre y año.</li>
@@ -14,7 +14,7 @@ Este repositorio contiene un análisis exploratorio de datos (EDA) y una represe
 <li>Identificar patrones de crecimiento en el acceso a internet.</li>
 <li>Analizar las diferencias entre provincias y años.</li>
 </ol>
-Generar visualizaciones:
+<h3>Generar visualizaciones:</h3>
 Gráficos de barras apiladas, líneas y puntos para representar los datos.
 KPIs que resuman las tendencias más relevantes.
 Proporcionar insights:
