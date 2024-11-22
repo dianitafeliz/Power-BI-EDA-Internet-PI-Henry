@@ -47,16 +47,16 @@ El objetivo es llegar a más hogares en el próximo trimestre.<br>
 Se propone un incremento del 2%. <br>
 2. Se toma como métrica los ingresos por cada año, para identidicar el porcentaje de incremento por cada año.
 El objetivo es proyectar el porcentaje de ingresos para el siguiente año, para así, planificar los recursos e inversiones futuras.
-Se propone un incremento del 110%, teniendo que el incremento para el periodo anterior se promedia en 102%.
-3. El último KPI nos muestra el crecimiento de nuevas tecnologías como lo es la Fibra óptica, la cual se ha venido expandiendo desde varios años atras, y que es importante hacerle un seguimiento, con el fin de observar la evolución y adopción de nuevas tecnologías en el país. 
+Se propone un incremento del 110%, teniendo que el incremento para el periodo anterior se promedia en 102%.<br>
+3. El último KPI nos muestra el crecimiento de nuevas tecnologías como lo es la Fibra óptica, la cual se ha venido expandiendo desde varios años atras, y que es importante hacerle un seguimiento, con el fin de observar la evolución y adopción de nuevas tecnologías en el país. <br>
 
 <h3>Conclusiones</h3>
 - Se observa una tendencia general al aumento del acceso a internet en Argentina a lo largo de los años, lo que indica una mejora en la conectividad a nivel nacional. Sin embargo, existen diferencias significativas entre las provincias, lo que sugiere la presencia de una brecha digital.<br>
 - Se evidencia una notable disparidad en el acceso a internet entre diferentes provincias. Algunas provincias muestran un acceso significativamente mayor, lo que puede estar relacionado con factores como el desarrollo económico, la urbanización y la disponibilidad de recursos tecnológicos. Por ejemplo, Buenos Aires se destaca como la provincia con el mayor acceso, mientras que otras provincias tienen cifras mucho más bajas.<br>
-- Al agrupar los accesos por tipo de tecnología, se puede observar que ciertas tecnologías, como el cablemódem y la fibra óptica, tienen una mayor cantidad de accesos en comparación con otras, como el WIMAX o el satelital. Esto indica que la adopción de tecnologías más avanzadas está contribuyendo al aumento del acceso a internet.
-- Los ingresos generados por el acceso a Internet muestran un comportamiento estacional y una tendencia positiva a lo largo de los años. Esto demuestra el papel fundamental de las telecomunicaciones en la economía nacional, con un aporte constante y creciente.
--La fibra óptica está consolidándose como la tecnología preferida, reflejando la importancia de seguir invirtiendo en infraestructuras modernas que ofrezcan velocidades más altas y mayor estabilidad.
--Aunque los resultados son alentadores, todavía existen oportunidades para mejorar la penetración en ciertas regiones y fomentar el uso de tecnologías avanzadas. Al mismo tiempo, el aumento en la conectividad puede abrir nuevas puertas en términos de desarrollo económico, educación digital y acceso a servicios.
+- Al agrupar los accesos por tipo de tecnología, se puede observar que ciertas tecnologías, como el cablemódem y la fibra óptica, tienen una mayor cantidad de accesos en comparación con otras, como el WIMAX o el satelital. Esto indica que la adopción de tecnologías más avanzadas está contribuyendo al aumento del acceso a internet.<br>
+- Los ingresos generados por el acceso a Internet muestran un comportamiento estacional y una tendencia positiva a lo largo de los años. Esto demuestra el papel fundamental de las telecomunicaciones en la economía nacional, con un aporte constante y creciente.<br>
+-La fibra óptica está consolidándose como la tecnología preferida, reflejando la importancia de seguir invirtiendo en infraestructuras modernas que ofrezcan velocidades más altas y mayor estabilidad.<br>
+-Aunque los resultados son alentadores, todavía existen oportunidades para mejorar la penetración en ciertas regiones y fomentar el uso de tecnologías avanzadas. Al mismo tiempo, el aumento en la conectividad puede abrir nuevas puertas en términos de desarrollo económico, educación digital y acceso a servicios.<br>
 
 
 
